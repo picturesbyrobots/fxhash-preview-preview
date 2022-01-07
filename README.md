@@ -18,7 +18,7 @@ This should give you a fairly good sense of if your project is outputing preview
  - clone the repo and install with `npm install` 
  - make sure you have your project runing on localhost. The fxhash webpack boiler plate is awesome
  - `run npm start` to generate a preview using the default settings
- - play around with the  flags. `--wait` will change the waittime. `--size` will control the size of the viewport generated. `--help` will give you the commands `node ./ --size 1024 --time 1024 --method wait --usefeh true` will generate a screenshot at 1024x1024 after 1.24 seconds and attempt to use the command line program `feh` to open the image after generation
+ - play around with the  flags. `--wait` will change the waittime. `--size` will control the size of the viewport generated. `--help` will give you the commands. For example:  `node ./ --size 1024 --time 1024 --method wait --usefeh true` will generate a screenshot at 1024x1024 after 1.24 seconds and attempt to use the command line program `feh` to open the image after generation
 - make beautiful art!
 
 
