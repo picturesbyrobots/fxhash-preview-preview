@@ -8,7 +8,7 @@ This is a small node.js tool that I wrote to that attempts to mimic the preview 
  As a fxhash creator I work exculsively with WebGL. This often causes some strange behavior during the mint processes. I found that processes of checking preview outputs was a bit cumbersum and wrote this small tool to help myself and other WebGL users streamline preview output testing.
 
 ## Is it accurate?
-This projects generates a screen shot by using pupeteer to 
+This projects generates a screen shot by using puppeteer to 
 1) generate a viewport at a given size 
 2) navigate to http://localhost:8080 
 3) take a screen shot after a certain amount of time or after fxpreview() is called in your code.
