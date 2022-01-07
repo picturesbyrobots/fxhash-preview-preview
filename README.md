@@ -16,7 +16,7 @@ This should give you a fairly good sense of if your project is outputing preview
  ## Sounds cool. how do I use?
  - clone the repo and install with `npm install` 
  - make sure you have your project runing on localhost. The fxhash webpack boiler plate is awesome
- - `run npm` start to generate a preview using the default settings
+ - `run npm start` to generate a preview using the default settings
  - play around with the  flags. `--wait` will change the waittime. `--size` will control the size of the viewport generated. `--help` will give you the commands
 - make beautiful art!
 
