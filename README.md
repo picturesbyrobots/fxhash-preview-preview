@@ -5,7 +5,7 @@
 This is a small node.js tool that I wrote to that attempts to mimic the preview processes that FXHash uses when miniting a new GENTK.
 
 ## What problem does this solve?
- As a fxhash creator I work exculsively with WebGL. This often causes some strange behavior during the mint processes. I found that processes of checking preview outputs was a bit cumbersum and wrote this small tool to help myself and other WebGL users streamline preview output testing.
+ As a fxhash creator I work exculsively with WebGL. I found that processes of checking preview outputs was a bit cumbersum and wrote this small tool to help streamline preview output testing.
 
 ## Is it accurate?
 This projects generates a screen shot by using puppeteer to 
