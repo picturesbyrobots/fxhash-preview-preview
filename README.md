@@ -1,4 +1,5 @@
 # FXHash Preview Preview
+![image](screenshots/previewpreview.gif)
 
 ## What is this?
 This is a small node.js tool that I wrote to that attempts to mimic the preview processes that FXHash uses when miniting a new GNTK.
