@@ -6,6 +6,8 @@ This is a small node.js tool that I wrote to that attempts to mimic the preview 
 ## What problem does this solve?
  As a fxhash creator I work exculsively with WebGL. Which often causes some strange behavior during the mint processes. I found that processes of checking preview outputs was a bit cumbersum and wrote this small tool to help myself and other WebGL users streamline preview output testing.
 
+## Is it accurate?
+This projects generates a screen shot by using pupeteer to generate a viewpor at a given size, navigating to http://localhost:8080 and taking a screen shot. As far as I can tell what fxhash does when a preview image is generated. However, it's not meant as a drop in replacement for the verification process that the website provides. 
  ## Sounds cool. how do I use?
  - clone the repo and install with `npm install` 
  - make sure you have your project runing on localhost. The fxhash webpack boiler plate is awesome
