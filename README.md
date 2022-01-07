@@ -2,7 +2,7 @@
 ![image](screenshots/previewpreview.gif)
 
 ## What is this?
-This is a small node.js tool that I wrote to that attempts to mimic the preview processes that FXHash uses when miniting a new GNTK.
+This is a small node.js tool that I wrote to that attempts to mimic the preview processes that FXHash uses when miniting a new GENTK.
 
 ## What problem does this solve?
  As a fxhash creator I work exculsively with WebGL. This often causes some strange behavior during the mint processes. I found that processes of checking preview outputs was a bit cumbersum and wrote this small tool to help myself and other WebGL users streamline preview output testing.
